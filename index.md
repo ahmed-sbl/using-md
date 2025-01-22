@@ -24,6 +24,8 @@ Throw in a [link](www.github.com)
 
 Throw a ling to a [section anchor](#some-unique-header)
 
+Here is a link to some [code snippets](#code-snippets)
+
 Just trying out some markd
 -
 -
@@ -44,3 +46,14 @@ Just trying out some markd
 and now some image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Code snippets
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
