@@ -2,7 +2,7 @@
 
 ## Github intro on using markdown
 
-### Lets explore some fomats
+### Lets explore some formats
 
 > Just a random quote here
 
@@ -20,4 +20,23 @@ Some <sup>superscript</sup> text
 
 Lets add some `CL command`
 
+Throw in a [link](www.github.com)
+
+Throw a ling to a [section anchor](#some-unique-header)
+
 Just trying out some markd
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+## Some unique header
