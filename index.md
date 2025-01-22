@@ -27,20 +27,13 @@ Throw a ling to a [section anchor](#some-unique-header)
 Here is a link to some [code snippets](#code-snippets)
 
 Just trying out some markd
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+
+**My task list**
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Say Hello! to the world
+
+
 ## Some unique header
 
 and now some image
