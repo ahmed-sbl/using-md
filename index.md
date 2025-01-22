@@ -40,3 +40,7 @@ Just trying out some markd
 -
 -
 ## Some unique header
+
+and now some image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
